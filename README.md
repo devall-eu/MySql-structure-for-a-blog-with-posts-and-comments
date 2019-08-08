@@ -4,6 +4,6 @@ Creating tables in a database to work with blog posts and comments for posts. Ne
 Build a database to work with a blog. Tables for adding and posting individual posts, categories and comments. Basic user table added.
 
 
-https://dev-all.eu/assets/public/postimg/blogstructure.png
+![Screenshot](blogstructure.png)
 
 Visit on page: https://dev-all.eu/blog/mysql-structure-for-a-blog-with-posts-and-comments
